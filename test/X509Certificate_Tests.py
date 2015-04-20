@@ -1,4 +1,4 @@
-#!/usr/bin/python2.7
+#!/usr/bin/env python2.7
 import unittest
 import socket
 from nassl import SSLV23, SSL_VERIFY_NONE, X509_NAME_MISMATCH, X509_NAME_MATCHES_SAN

@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python2.7
 
 from os import mkdir, getcwd
 from os.path import join

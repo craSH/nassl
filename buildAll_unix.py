@@ -1,4 +1,4 @@
-#!/usr/bin/python2.7
+#!/usr/bin/env python2.7
 from platform import architecture
 from sys import platform
 from os.path import join
